@@ -1,8 +1,8 @@
 {
   "name": "server",
   "scripts": {
-    "start": "npx ts-node ./src/app.ts",
-    "watch": "nodemon"
+    "start": "node ."
+    
   },
   "dependencies": {
     "body-parser": "^1.19.0",
