@@ -1,8 +1,8 @@
 {
   "name": "server",
-   "main": "app.js",
+   "main": "app.ts",
   "scripts": {
-    "start": "node ./src/app.js"
+    "start": "node ./src/app.ts"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
