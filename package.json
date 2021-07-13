@@ -2,7 +2,7 @@
   "name": "server",
    "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./src/app.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
